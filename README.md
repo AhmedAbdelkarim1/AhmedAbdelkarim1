@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelkarim</h1>
-<h3 align="center">Looking for an opportunity to work as a backend .NET Developer, Eager to apply and expand my knowledge in a professional environment while contributing to meaningful projects under experienced mentorship.</h3>
+<h3 align="center">Computer Science graduate Looking for an opportunity to work as a backend .NET Developer, Eager to apply and expand my knowledge in a professional environment while contributing to meaningful projects under experienced mentorship.</h3>
 
 - 🔭 I’m currently working on [Handmade](https://github.com/AhmedTahasubs/Handmade-Back)
 
