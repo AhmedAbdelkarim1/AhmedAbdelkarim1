@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelkarim</h1>
-<h3 align="center">NET Backend Developer and Computer Science graduate demonstrated in solving different problems using appropriate algorithms and data structures to make scalable and high performing applications and building RESTful APIs using ASP.NET Core</h3>
+<h3 align="center">.NET Backend Developer and Computer Science graduate demonstrated in solving different problems using appropriate algorithms and data structures to make scalable and high performing applications and building RESTful APIs using ASP.NET Core</h3>
 
 - 🔭 I’m currently working on [Handmade](https://github.com/AhmedAbdelkarim1/Handmade-E-commerce-Platform)
 
