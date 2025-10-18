@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelkarim</h1>
-<h3 align="center">.NET Backend Developer and Computer Science graduate skilled in ASP.NET Core, Entity Framework Core, and SQL Server. Experienced in building RESTful APIs and applying OOP and SOLID principles. Motivated to enhance backend expertise and contribute to impactful software solutions within collaborative teams.</h3>
+<h3 align="center">NET Backend Developer and Computer Science graduate demonstrated in solving different problems using appropriate algorithms and data structures to make scalable and high performing applications and building RESTful APIs using ASP.NET Core</h3>
 
 - 🔭 I’m currently working on [Handmade](https://github.com/AhmedAbdelkarim1/Handmade-E-commerce-Platform)
 
